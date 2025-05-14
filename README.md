@@ -3,7 +3,7 @@
 - Searchable Users List
   - Searching User
   - Deleting User
-- setState() 
+- setState()
   - Object Syntax
 - Components
   - Passing Callbacks
